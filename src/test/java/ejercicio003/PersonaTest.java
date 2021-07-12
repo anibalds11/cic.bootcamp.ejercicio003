@@ -35,7 +35,6 @@ class PersonaTest {
 	void testPersonas() {
 		
 		String persona=lista.getPersona();
-		
 		assertEquals(persona,persona);
 		
 		
